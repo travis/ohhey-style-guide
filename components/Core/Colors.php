@@ -5,8 +5,8 @@
 
 <section class="swatch-wrap">
 	<div class="swatch swatch__item--primary">
-		<p class="swatch__item__title">Royal Lavendar</p>
-		<p class="swatch__item__value">#7C4DFF</p>
+		<p class="swatch__item__title">Razzmatazz</p>
+		<p class="swatch__item__value">#e91e63</p>
 	</div>
 </section>
 
@@ -15,12 +15,12 @@
 
 <section class="grid grid__three-column">
 	<div class="swatch swatch__item--secondary">
-		<p class="swatch__item__title">Deep Sky Blue</p>
-		<p class="swatch__item__value">#01C9EA</p>
+		<p class="swatch__item__title">Vivid Cerulean</p>
+		<p class="swatch__item__value">#03a9f4</p>
 	</div>
 	<div class="swatch swatch__item--tertiary">
-		<p class="swatch__item__title">Cerulean</p>
-		<p class="swatch__item__value">#18A9E6</p>
+		<p class="swatch__item__title">Stil de Grain Yellow</p>
+		<p class="swatch__item__value">#F9DC5C</p>
 	</div>
 	<div class="swatch swatch__item--tertiary-1">
 		<p class="swatch__item__title">Geyser</p>

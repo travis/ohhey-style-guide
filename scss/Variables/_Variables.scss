@@ -2,14 +2,15 @@
 
 
 /* Colors - inrupt Branded - Generic*/
-$primary-color: #7C4DFF;
-$secondary-color: #01C9EA;
-$tertiary-color: #18A9E6;
+/* https://coolors.co/e91e63-03a9f4-403f4c-f9dc5c-3185fc */
+$primary-color: #e91e63;
+$secondary-color: #03a9f4;
+$tertiary-color: #F9DC5C;
 $tertiary-color-1: #DAE0E6;
 $tertiary-color-2: #083575;
 $tertiary-color-3: #01FAAB;
-$link-active-color: #449DF5;
-$primary-text-color: #354866;
+$link-active-color: #3185FC;
+$primary-text-color: #403F4C;
 $secondary-text-color: #666666;
 $error-color: #D0021B;
 $icon-color: #5361FD;
@@ -22,10 +23,10 @@ $concord-gray: #7D7D7D;
 
 /* Typography */
 
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,700,700i|Roboto:300,300i,400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i|Roboto:300,300i,400,400i,700,700i');
 
 /* Typography  Variables */
-$primary-font-stack: "Raleway", "Roboto", sans-serif;
+$primary-font-stack: "EB Garamond", serif;
 $secondary-font-stack: "Roboto", sans-serif;
 
 /* additional Variables */
@@ -192,6 +193,3 @@ $desktop-width: 1024px;
     @content;
   }
 }
-
-
-
