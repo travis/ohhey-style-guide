@@ -1,5 +1,5 @@
 {
-  "name": "ohhey-atomic-styleguide",
+  "name": "@ohhey/style-guide",
   "description": "Atomic live styleguide for FE components and styles",
   "version": "1.0.1",
   "main": "index.php",
@@ -15,7 +15,7 @@
   "author": "Tony Morelli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/janeirodigital/inrupt-atomic-styleguide/issues"
+    "url": "https://github.com/travis/ohhey-style-guide/issues"
   },
-  "homepage": "https://github.com/janeirodigital/inrupt-atomic-styleguide/README.md"
+  "homepage": "https://github.com/travis/ohhey-style-guide/README.md"
 }
