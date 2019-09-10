@@ -4,17 +4,17 @@
 /* https://coolors.co/e91e63-03a9f4-403f4c-f9dc5c-3185fc */
 /* inrupt Additional Specific Color Variables */
 /* Typography */
-@import url("https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i|Roboto:300,300i,400,400i,700,700i");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700,700i|Roboto:300,300i,400,400i,700,700i");
 /* Typography  Variables */
 /* additional Variables */
 /* Reset */
 .component {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   font-size: 1em;
   line-height: 1;
 }
 .component .source {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   font-size: 1em;
   line-height: 1;
 }
@@ -751,7 +751,7 @@ stretchRight
 }
 /* scss/Core/_Typography.scss */
 .text-raleway {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   padding-bottom: 1em;
 }
 .text-raleway__title {
@@ -815,7 +815,7 @@ small {
 }
 
 h1 {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   font-weight: 700;
   font-size: 2.5rem;
 }
@@ -824,7 +824,7 @@ h1.title--white {
 }
 
 h2 {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   font-weight: 300;
   font-size: 2rem;
 }
@@ -836,7 +836,7 @@ h3 {
 }
 
 h4 {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   text-transform: uppercase;
   font-weight: 900;
   color: #5361FD;
@@ -844,7 +844,7 @@ h4 {
 }
 
 h5 {
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   text-transform: uppercase;
   font-size: 1rem;
   color: #7D7D7D;
@@ -1076,7 +1076,7 @@ link,
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   color: #403F4C;
   border: 1px solid #DAE0E6;
   -webkit-border-radius: 4px;
@@ -1149,7 +1149,7 @@ link[active],
   align-items: center;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   font-weight: 700;
   /* Gradients */
 }
@@ -1410,7 +1410,7 @@ input, select, textarea {
   -webkit-appearance: none;
   -moz-appearance: none;
   width: 100%;
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   outline: none;
   transition: all 0.25s ease-in-out;
 }
@@ -1427,7 +1427,7 @@ textarea {
   -webkit-appearance: none;
   -moz-appearance: none;
   width: 100%;
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   outline: none;
   transition: all 0.25s ease-in-out;
 }
@@ -1498,7 +1498,7 @@ textarea[type=text]::placeholder {
   -webkit-appearance: none;
   -moz-appearance: none;
   width: 100%;
-  font-family: "EB Garamond", serif;
+  font-family: "Raleway", serif;
   outline: none;
   transition: all 0.25s ease-in-out;
 }
